@@ -1,8 +1,12 @@
 🛍️ Kara – Online Clothing Shopping Website
-📄 Abstract
+
+
+📄 Description 
 Kara Online Shopping Web is a simple and user-friendly website that allows users to browse, select, and purchase different types of clothing such as shirts, pants, and dresses. The goal of this project was to make online shopping fun and convenient for everyone.
 
 This was my first ever full-stack web project, and it marked the beginning of my journey into web development.
+
+
 
 🧑‍💻 Tech Stack
 Frontend: HTML, CSS, JavaScript
@@ -12,6 +16,8 @@ Backend: PHP
 Database: MySQL
 
 Server Environment: XAMPP
+
+
 
 🌟 Key Features
 ✅ Browse a variety of clothes by category
@@ -23,6 +29,8 @@ Server Environment: XAMPP
 💸 Simulated checkout process
 
 🎨 Basic but clean styling using custom CSS
+
+
 
 📘 My Learning Journey
 This was more than just a project — it was the start of my development career:
@@ -51,6 +59,8 @@ Design details
 UML diagrams
 
 Future enhancements
+
+
 
 🙌 A Message to Beginners
 If you're just starting with web development:
